@@ -7,14 +7,8 @@
       "complete": true
     },
     {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem ipsum",
-      "complete": false
-    },
-    {
-      "title": "New project",
-      "details": "aaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaa",
+      "title": "New project 2",
+      "details": "Ale ale ale",
       "complete": false,
       "id": 3
     }
